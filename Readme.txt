@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Welcome to Charles Moswane's personal website.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website URL: https://charlesmoswane.github.io/
