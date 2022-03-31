@@ -1514,7 +1514,7 @@
 }
 
 .rounded-circle {
-  border-radius: 25% !important;
+  border-radius: 50% !important;
 }
 
 .rounded-pill {
@@ -1610,8 +1610,8 @@
     flex-direction: row !important;
   }
 
-  .flex-sm-column {
-    flex-direction: column !important;
+  .flex-sm-  border-radius: 50% !important;
+n !important;
   }
 
   .flex-sm-row-reverse {
